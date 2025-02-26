@@ -1,3 +1,3 @@
 # BasicGitHubtesting-Finance
-Authors: T&R
+Authors: Tommy and Raphael
 Topic: Git Sandbox play around
